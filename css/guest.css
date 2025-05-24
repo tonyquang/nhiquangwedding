@@ -82,7 +82,7 @@ html[data-bs-theme="light"] .btn-transparent {
 }
 
 html[data-bs-theme="light"] .color-theme-svg {
-    color: rgb(255, 255, 255);
+    color: rgb(247 246 244);
     background-color: var(--bs-light);
 }
 
